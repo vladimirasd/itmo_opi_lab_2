@@ -1,4 +1,4 @@
-public class D implements A {
+public class D extends null implements A {
 
     private String b = "init";
 
